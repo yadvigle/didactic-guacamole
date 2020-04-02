@@ -1,6 +1,5 @@
 MARGARITA
-<<<<<<< HEAD
+HEAD
 Viktorovna
-=======
 VIKTOROVNA
->>>>>>> newdev
+newdev
